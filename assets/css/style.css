@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+.bxs-shadow {
+  background: linear-gradient(180deg, #000000 36.19%, rgba(0, 0, 0, 0) 100%);
+}
+
+.home {
+  color: white;
+  font-size: 40px;
+}
+.btn {
+  width: 144px;
+  height: 51px;
+  background-color: #ffc20a;
+  border: 0;
+  border-radius: 100px;
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+  transition: all 1s ease-in-out;
+  font-family: "Dela Gothic One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.discord {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #ffffff;
+  border-radius: 100px;
+  background: transparent;
+  justify-content: center;
+  padding-bottom: 2px;
+}
+.telegram {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #ffffff;
+  border-radius: 100px;
+  background: transparent;
+  padding-bottom: 2px;
+}
+.x {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #ffffff;
+  border-radius: 100px;
+  background: transparent;
+  padding-bottom: 2px;
+}
+.btn:hover {
+  background-color: gold;
+}
+body {
+  color: #ffffff;
+}
+
+.background {
+  background-image: url(/assets/images/background.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.ape {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 115%;
+  text-shadow: 2px 2px 4px #3b4649;
+}
+.chimpaz {
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 68px;
+  line-height: 112%;
+  text-shadow: 2px 2px 4px #6b7174;
+}
+
+.pera {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 115%;
+  text-shadow: 2px 2px 4px #5f6a6f;
+}
+.color {
+  color: white;
+}
+.chi {
+  color: rgba(59, 148, 94, 1);
+  text-shadow: 2px 2px 4px #123328;
+}
+.text_center {
+  align-content: center;
+}
+.width100 {
+  width: 100%;
+}
+.foot {
+  position: absolute;
+  bottom: 0;
+
+  width: 100%;
+
+  min-height: 100px;
+  background: linear-gradient(359deg, #030d01 0%, rgba(3, 13, 1, 0) 100%);
+}
+.align_center {
+  align-items: center;
+}
+.color:hover {
+  color: #ffffff;
+}
