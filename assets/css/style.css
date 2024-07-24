@@ -126,6 +126,7 @@ body {
 }
 .color:hover {
   color: #ffffff;
+  -webkit-text-stroke: 1px;
 }
 .lines-3 {
   display: flex;
