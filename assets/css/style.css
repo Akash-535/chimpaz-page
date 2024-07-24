@@ -127,3 +127,17 @@ body {
 .color:hover {
   color: #ffffff;
 }
+.lines-3 {
+  display: flex;
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  .chimpaz {
+    font-size: 48px;
+  }
+}
